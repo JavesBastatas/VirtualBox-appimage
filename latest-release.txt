@@ -1,1 +1,1 @@
-https://github.com/JavesBastatas/VirtualBox-appimage/releases/download/7.2.4/VirtualBox-KVM_7.2.4-archimage4.3-x86_64.AppImage
+https://github.com/JavesBastatas/VirtualBox-appimage/releases/download/20251204-141720/VirtualBox-KVM_7.2.4-archimage4.3-x86_64.AppImage
